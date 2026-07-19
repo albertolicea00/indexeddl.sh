@@ -6,7 +6,7 @@
 `indexeddl.sh` is a lightweight shell script that provides command‑line access to the IndexedDL utilities, enabling quick download and indexing of datasets.
 
 ## 📜 License
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.md) file for details.
 
 ## 🤝 Collab
 - **Contributing**: Contributions are welcome! Please see our [Contributing Guidelines](CONTRIBUTING.md) for pull‑request standards.
