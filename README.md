@@ -1,6 +1,8 @@
 # >> indexeddl.sh
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+![Shell](https://img.shields.io/badge/Shell-Bash-1f425f?style=flat-square&logo=gnu-bash&logoColor=white)
+![TUI](https://img.shields.io/badge/Interface-TUI-8A2BE2?style=flat-square)
+![MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
 
 ## ✨ Overview
 
